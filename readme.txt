@@ -1,1 +1,1 @@
-this is my cs100 Kuy
+this is my cs100
